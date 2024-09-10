@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: infrence
+    env: docker
+    plan: free
